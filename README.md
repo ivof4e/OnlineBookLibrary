@@ -6,8 +6,8 @@ C# .net MVC
 ### Enable migration to the project
 - enable-migrations -contexttypename OnlineBookLibraryContext
 
-- Create migration
-### add-migration ini
+### Create migration
+- add-migration ini
 
 ### Update database with applying all changes on the context
 - update-database

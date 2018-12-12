@@ -12,7 +12,7 @@ C# .net MVC
 ### Update database with applying all changes on the context
 - update-database
 
-
+### Installs
 - Install-Package PagedList.Mvc
 
 - Install-Package Microsoft.AspNet.Identity.Owin
